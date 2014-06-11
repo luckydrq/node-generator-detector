@@ -1,4 +1,4 @@
-### node-generator-detector
+## node-generator-detector
 
 ### A simple module to detect generator feature.
 
