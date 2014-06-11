@@ -1,0 +1,11 @@
+{
+  "name": "node-generator-detector",
+  "version": "0.1.0",
+  "author": "luckydrq<drqzju@gmail.com>",
+  "keywords": [
+    "generator",
+    "detect",
+    "support"
+  ],
+  "main": "index.js"
+}
