@@ -1,3 +1,5 @@
+### node-generator-detector
+
 ### A simple module to detect generator feature.
 
 ### Quick Start
