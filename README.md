@@ -1,6 +1,6 @@
 ## node-generator-detector
 
-### A simple module to detect generator feature.
+### A simple module to detect generator feature for node.js.
 
 ### Quick Start
 ```javascript
