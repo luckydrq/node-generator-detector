@@ -4,11 +4,8 @@
 
 ### Quick Start
 ```javascript
-  var detector = require('node-generator-detector');
-  detector(function(err, result){
-    if (err) console.error(err.message);
-    else console.log(result);       // true or false
-  });
+  var supportGen = require('node-generator-detector')();
+  console.log(supportGen); // true or false
 ```
 ### Installation
 ```npm i node-generator-detector```
