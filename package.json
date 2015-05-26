@@ -1,11 +1,15 @@
 {
   "name": "node-generator-detector",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "luckydrq<drqzju@gmail.com>",
   "keywords": [
     "generator",
     "detect",
     "support"
   ],
-  "main": "index.js"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luckydrq/node-generator-detector"
+  }
 }
